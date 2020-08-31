@@ -1,0 +1,86 @@
+header.header {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+header.header .logo .title {
+  display: flex;
+  text-align: left;
+}
+header.header .logo .title .swipe {
+  font-size: 40px;
+  font-weight: bold;
+  color: #bb133e;
+  margin: 0 3px;
+}
+header.header .logo .title .four {
+  font-weight: bold;
+  font-size: 40px;
+  color: #777;
+  margin: 0 3px;
+}
+header.header .logo .title .jobs {
+  font-weight: bold;
+  font-size: 40px;
+  color: #002147;
+  margin: 0 3px;
+}
+header.header .logo .subtitle {
+  font-style: italic;
+  font-size: 18px;
+  text-align: left;
+}
+header.header nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+header.header nav a {
+  text-decoration: none;
+  color: initial;
+  margin-right: 20px;
+}
+header.header nav a:visited {
+  color: initial;
+}
+header.header nav a:hover {
+  font-weight: bold;
+}
+header.header nav .secondarynav {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  font-size: 12px;
+}
+header.header nav .secondarynav li {
+  width: 120px;
+  padding: 0;
+}
+header.header nav .mainnav {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin-right: 20px;
+  font-size: 20px;
+}
+header.header nav .mainnav li {
+  width: 100px;
+  padding: 0;
+}
+
+.about {
+  margin: 20px auto;
+  max-width: 1080px;
+}
+.about h3 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+.about h5 {
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=main.css.map */

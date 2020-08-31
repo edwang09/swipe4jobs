@@ -1,0 +1,88 @@
+header.header{
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    .logo{
+        .title{
+            display: flex;
+            text-align: left;
+            .swipe{
+                font-size: 40px;
+                font-weight: bold;
+                color:rgb(187, 19, 62);
+                margin:0 3px;
+            }
+            .four{
+                font-weight: bold;
+                font-size: 40px;
+                color:#777;
+                margin:0 3px;
+            }
+            .jobs{
+                font-weight: bold;
+                font-size: 40px;
+                color:rgb(0, 33, 71);
+                margin:0 3px;
+            }
+        }
+        .subtitle{
+            font-style: italic;
+            font-size: 18px;
+            text-align: left;
+        }
+
+    }
+    nav{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        text-align: center;
+        a{
+            text-decoration: none;
+            color:initial;
+            margin-right: 20px;
+            &:visited{
+                color: initial;
+            }
+            &:hover{
+                font-weight: bold;
+            }
+        }
+        .secondarynav{
+            display: flex;
+            list-style: none;
+            padding: 0;
+            font-size: 12px;
+            li{
+                width: 120px;
+                padding:0;
+
+            }
+        }
+        .mainnav{
+            display: flex;
+            list-style: none;
+            padding: 0;
+            margin-right: 20px;
+            font-size: 20px;
+            li{
+                width: 100px;
+                padding:0;
+            }
+        }
+    }
+}
+.about{
+    margin: 20px auto;
+    max-width: 1080px;
+    h3{
+        font-size: 30px;
+        text-align: center;
+        font-weight: bold;
+    }
+    h5{
+        font-weight: bold;
+    }
+
+}
