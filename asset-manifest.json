@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/swipe4jobs/static/css/main.5aae24ae.chunk.css",
+    "main.js": "/swipe4jobs/static/js/main.4dd7ba45.chunk.js",
+    "main.js.map": "/swipe4jobs/static/js/main.4dd7ba45.chunk.js.map",
+    "runtime-main.js": "/swipe4jobs/static/js/runtime-main.3550f765.js",
+    "runtime-main.js.map": "/swipe4jobs/static/js/runtime-main.3550f765.js.map",
+    "static/js/2.f75501c6.chunk.js": "/swipe4jobs/static/js/2.f75501c6.chunk.js",
+    "static/js/2.f75501c6.chunk.js.map": "/swipe4jobs/static/js/2.f75501c6.chunk.js.map",
+    "index.html": "/swipe4jobs/index.html",
+    "precache-manifest.16c2d83c01f42444e77870034d67035f.js": "/swipe4jobs/precache-manifest.16c2d83c01f42444e77870034d67035f.js",
+    "service-worker.js": "/swipe4jobs/service-worker.js",
+    "static/css/main.5aae24ae.chunk.css.map": "/swipe4jobs/static/css/main.5aae24ae.chunk.css.map",
+    "static/js/2.f75501c6.chunk.js.LICENSE.txt": "/swipe4jobs/static/js/2.f75501c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3550f765.js",
+    "static/js/2.f75501c6.chunk.js",
+    "static/css/main.5aae24ae.chunk.css",
+    "static/js/main.4dd7ba45.chunk.js"
+  ]
+}
